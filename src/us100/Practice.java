@@ -1,6 +1,6 @@
-package day01;
+package us100;
 
-public class HelloGuys {
+public class Practice {
     public static void main(String[] args) {
         System.out.println("Hello guys!!!");
     }
